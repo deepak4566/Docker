@@ -12,6 +12,9 @@ There are 2 different ways how docker solves this problem.
 1. Volumes
 2. Bind Directory on a host as a Mount
 
+
+### Note - bind mounts are not much used now a days so we will implement only volume and mount volumes to container
+
 ### Volumes 
 
 Volumes aims to solve the same problem by providing a way to store data on the host file system, separate from the container's file system, 

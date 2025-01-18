@@ -183,6 +183,7 @@ Always ensure the docker daemon is up and running.
 A easy way to verify your Docker installation is by running the below command
 
 ```
+sudo su -
 docker run hello-world
 ```
 

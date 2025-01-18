@@ -9,12 +9,14 @@ By default, Docker provides two network drivers for you, the bridge and the over
 docker network ls
 ```
 
+
 ```
 NETWORK ID          NAME                DRIVER
 xxxxxxxxxxxx        none                null
 xxxxxxxxxxxx        host                host
 xxxxxxxxxxxx        bridge              bridge
 ```
+
 
 
 ### Bridge Networking
